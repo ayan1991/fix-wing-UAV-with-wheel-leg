@@ -10,7 +10,9 @@ Please visit our project website [Fixwing-wheelLeg](https://github.com/ayan1991/
 If you find this work useful or interesting, please kindly give us a star ⭐, thanks! 😀
 
 <p align="center">
-    <img src="figure/head_figure_1.png" alt="Trajectory" width="70%">
+    <img src="figure/asm.png" alt="Trajectory" width="70%">
+     <img src="figure/terrains.png" alt="Trajectory" width="70%">
+     <img src="figure/plane2.png" alt="Trajectory" width="70%">
 </p>
 
 ## Quick Start
