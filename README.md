@@ -8,12 +8,15 @@ The paper is Accepted in ICAUS2026!
 
 Please visit our project website [Fixwing-wheelLeg](https://github.com/ayan1991/fix-wing-UAV-with-wheel-leg.git/).
 If you find this work useful or interesting, please kindly give us a star ⭐, thanks! 😀
+![gif1](figure/normal_wave.gif) ![gif2](figure/normal_squad.gif)
 
-<p align="center">
+<!-- | ![a](figure/normal_wave.gif) | ![b](figure/normal_squad.gif) | ![c](figure/normal_terr.gif) |
+   |---|---|---|
+  | ![d](figure/ours_wave.gif) | ![b](figure/ours_squad.gif) | ![c](figure/ours_terr.gif) |
      <img src="figure/normal_wave.gif" alt="Trajectory" width="70%">
-   # | ![a](figure/normal_wave.gif) | ![b](figure/normal_squad.gif) | ![c](figure/normal_terr.gif) |
-  #  |---|---|---|
-  #  | ![d](figure/ours_wave.gif) | ![b](figure/ours_squad.gif) | ![c](figure/ours_terr.gif) |
+-->
+<p align="center">
+  
     <img src="figure/asm.png" alt="Trajectory" width="70%">
      <img src="figure/terrains.png" alt="Trajectory" width="70%">
      <img src="figure/plane2.png" alt="Trajectory" width="70%">
