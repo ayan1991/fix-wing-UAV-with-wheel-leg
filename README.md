@@ -10,6 +10,9 @@ Please visit our project website [Fixwing-wheelLeg](https://github.com/ayan1991/
 If you find this work useful or interesting, please kindly give us a star ⭐, thanks! 😀
 
 <p align="center">
+    | ![a](figure/normal_wave.gif) | ![b](figure/normal_squad.gif) | ![c](figure/normal_terr.gif) |
+    |---|---|---|
+    | ![d](figure/ours_wave.gif) | ![b](figure/ours_squad.gif) | ![c](figure/ours_terr.gif) |
     <img src="figure/asm.png" alt="Trajectory" width="70%">
      <img src="figure/terrains.png" alt="Trajectory" width="70%">
      <img src="figure/plane2.png" alt="Trajectory" width="70%">
