@@ -13,13 +13,14 @@ If you find this work useful or interesting, please kindly give us a star ⭐, t
 <!-- | ![a](figure/normal_wave.gif) | ![b](figure/normal_squad.gif) | ![c](figure/normal_terr.gif) |
    |---|---|---|
   | ![d](figure/ours_wave.gif) | ![b](figure/ours_squad.gif) | ![c](figure/ours_terr.gif) |
-     <img src="figure/normal_wave.gif" alt="Trajectory" width="70%">
+     
 -->
 <p align="center">
-  
-    <img src="figure/asm.png" alt="Trajectory" width="70%">
-     <img src="figure/terrains.png" alt="Trajectory" width="70%">
-     <img src="figure/plane2.png" alt="Trajectory" width="70%">
+     <img src="figure/normal_wave.gif" alt="Trajectory" width="30%">
+     <img src="figure/normal_squad.gif" alt="Trajectory" width="30%">
+     <img src="figure/asm.png" alt="Trajectory" width="20%">
+     <img src="figure/terrains.png" alt="Trajectory" width="20%">
+     <img src="figure/plane2.png" alt="Trajectory" width="20%">
 </p>
 
 ## Quick Start
